@@ -1,0 +1,2 @@
+Test fixture for special character: '#' (label: hash)
+Branch: test-branch-hash-#-x
