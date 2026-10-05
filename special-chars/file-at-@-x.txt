@@ -1,0 +1,2 @@
+Test fixture for special character: '@' (label: at)
+Branch: test-branch-at-@-x
