@@ -1,0 +1,2 @@
+Test fixture for special character: '`' (label: backtick)
+Branch: test-branch-backtick-`-x
