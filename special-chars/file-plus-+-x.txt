@@ -1,0 +1,2 @@
+Test fixture for special character: '+' (label: plus)
+Branch: test-branch-plus-+-x
