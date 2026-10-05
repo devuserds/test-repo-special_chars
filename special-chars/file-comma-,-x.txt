@@ -1,0 +1,2 @@
+Test fixture for special character: ',' (label: comma)
+Branch: test-branch-comma-,-x
