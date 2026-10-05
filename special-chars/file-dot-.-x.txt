@@ -1,0 +1,2 @@
+Test fixture for special character: '.' (label: dot)
+Branch: test-branch-dot-.-x
