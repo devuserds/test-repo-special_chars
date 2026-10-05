@@ -1,0 +1,2 @@
+Test fixture for special character: '=' (label: eq)
+Branch: test-branch-eq-=-x
