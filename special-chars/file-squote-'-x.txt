@@ -1,0 +1,2 @@
+Test fixture for special character: "'" (label: squote)
+Branch: test-branch-squote-'-x
