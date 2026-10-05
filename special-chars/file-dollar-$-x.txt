@@ -1,0 +1,2 @@
+Test fixture for special character: '$' (label: dollar)
+Branch: test-branch-dollar-$-x
