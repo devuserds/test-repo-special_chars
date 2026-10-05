@@ -1,0 +1,2 @@
+Test fixture for special character: '|' (label: pipe)
+Branch: test-branch-pipe-|-x
