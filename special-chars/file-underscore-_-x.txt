@@ -1,0 +1,2 @@
+Test fixture for special character: '_' (label: underscore)
+Branch: test-branch-underscore-_-x
