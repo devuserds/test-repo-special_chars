@@ -1,0 +1,2 @@
+Test fixture for special character: '<' (label: lt)
+Branch: test-branch-lt-<-x
