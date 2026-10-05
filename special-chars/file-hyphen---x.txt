@@ -1,0 +1,2 @@
+Test fixture for special character: '-' (label: hyphen)
+Branch: test-branch-hyphen---x
