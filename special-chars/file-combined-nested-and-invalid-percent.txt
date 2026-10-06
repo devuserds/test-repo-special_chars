@@ -1,0 +1,2 @@
+Test fixture for abrupt_termination_identification repro: hotfix/50%-done
+Case: combined-nested-and-invalid-percent
