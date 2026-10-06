@@ -1,0 +1,2 @@
+Test fixture for abrupt_termination_identification repro: test-branch-pctvalid-%2F-x
+Case: valid-percent-escape-silent-decode
